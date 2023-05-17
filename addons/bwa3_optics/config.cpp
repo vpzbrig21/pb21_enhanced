@@ -6,7 +6,7 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"pb21_main"};
+        requiredAddons[] = {"pb21_main","bwa3_optics"};
         author = "";
         authors[] = {""};
         VERSION_CONFIG;
