@@ -1,0 +1,12 @@
+name = "Panzerbrigade 21 Enhanced 1.0.0";
+picture = "logo_pb21_ca.paa";
+actionName = "GitHub";
+action = "https://vpzbrig21.de";
+description = "PB21 Enhanced - Version 1.0.0";
+logo = "logo_pb21_ca.paa";
+logoOver = "logo_pb21_ca.paa";
+tooltip = "PB21";
+tooltipOwned = "PB21 Owned";
+overview = "Internal modifications and adjustments for the virtual Panzerbrigade 21.";
+author = "vPanzerbrigade 21 S4";
+overviewPicture = "logo_pb21_ca.paa";
