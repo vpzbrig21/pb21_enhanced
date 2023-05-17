@@ -1,1 +1,1 @@
-#include "\z\pb12\addons\blank\script_component.hpp"
+#include "\z\pb21\addons\blank\script_component.hpp"

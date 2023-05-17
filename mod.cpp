@@ -1,8 +1,8 @@
-name = "Panzerbrigade 21 Enhanced 1.0.0";
+name = "Panzerbrigade 21 Enhanced 0.0.0";
 picture = "logo_pb21_ca.paa";
 actionName = "GitHub";
 action = "https://vpzbrig21.de";
-description = "PB21 Enhanced - Version 1.0.0";
+description = "PB21 Enhanced - Version 0.0.0";
 logo = "logo_pb21_ca.paa";
 logoOver = "logo_pb21_ca.paa";
 tooltip = "PB21";

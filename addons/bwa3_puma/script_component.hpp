@@ -1,6 +1,6 @@
-#define COMPONENT blank
-#define COMPONENT_BEAUTIFIED Blank
-#include "\z\pb21_enhanced\addons\main\script_mod.hpp"
+#define COMPONENT bwa3_puma
+#define COMPONENT_BEAUTIFIED BWMod Puma
+#include "\z\pb21\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
 // #define DISABLE_COMPILE_CACHE
@@ -14,4 +14,4 @@
     #define DEBUG_SETTINGS DEBUG_SETTINGS_BLANK
 #endif
 
-#include "\z\pb21_enhanced\addons\main\script_macros.hpp"
+#include "\z\pb21\addons\main\script_macros.hpp"

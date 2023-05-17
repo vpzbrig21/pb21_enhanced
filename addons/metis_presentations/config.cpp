@@ -6,11 +6,11 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"pb21_main"};
+        requiredAddons[] = {"pb21_main","mts_presentation"};
         author = "";
         authors[] = {""};
         VERSION_CONFIG;
     };
 };
 
-#include "CfgEventHandlers.hpp"
+#include "CfgMtsPresentationTopics.hpp"
