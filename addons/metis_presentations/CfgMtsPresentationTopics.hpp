@@ -115,7 +115,7 @@ class mts_presentation_topics {
         extension = ".paa";
         slides = 28;
     };
-    class pb21_sga_funk_2023 {
+    class pb21_sga_funk_felsek {
         displayName = "Fernmeldedienst aller Truppen (Felske)";
         path = "z\pb21\addons\metis_presentations\data\sgafunk";
         name = "sga_fmdstat_f";
