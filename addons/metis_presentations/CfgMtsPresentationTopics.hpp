@@ -122,7 +122,7 @@ class mts_presentation_topics {
         extension = ".paa";
         slides = 29;
     };
-    class pb21_aga_m2_2023 {
+    class pb21_aga_m2_felske {
         displayName = "AGA M2 (Felske) - Gefechtsdienst mit Schießlehre und Feuerkampf";
         path = "z\pb21\addons\metis_presentations\data\agam2_2023";
         name = "aga_m2_f";
