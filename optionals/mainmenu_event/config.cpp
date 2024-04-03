@@ -13,4 +13,5 @@ class CfgPatches {
     };
 };
 
+#include "Whitelist.hpp"
 #include "CfgMainMenuSpotlight.hpp"

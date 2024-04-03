@@ -7,6 +7,7 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"pb21_main"};
+        skipWhenMissingDependencies = 1;
         author = "";
         authors[] = {""};
         VERSION_CONFIG;
