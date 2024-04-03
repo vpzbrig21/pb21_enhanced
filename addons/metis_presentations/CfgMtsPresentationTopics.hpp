@@ -138,7 +138,7 @@ class mts_presentation_topics {
         extension = ".paa";
         slides = 28;
     };
-    class pb21_sga_eehb_foxy_2021 {
+    class pb21_sga_eehb_foxy_wunden_2021 {
         displayName = "Ersthelfer B Wunden";
         path = "z\pb21\addons\metis_presentations\data\foxy_eehb_wunden";
         name = "wunde_f1";
