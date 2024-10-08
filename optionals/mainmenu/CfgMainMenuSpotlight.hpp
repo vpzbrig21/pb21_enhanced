@@ -1,5 +1,5 @@
 class CfgMainMenuSpotlight {
-    class pb21_trubpl {
+    class pb21_trubpl1 {
         text = "TrUbPl";
         textIsQuote = 0;
         picture = "\z\pb21\addons\mainmenu\data\pb21_trubpl_co.paa";
