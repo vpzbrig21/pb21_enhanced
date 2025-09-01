@@ -4,7 +4,7 @@ class CfgMainMenuSpotlight {
         textIsQuote = 0;
         picture = "\z\pb21\addons\mainmenu_birthday\data\pb21_event1_co.paa";
         video = "\z\pb21\addons\mainmenu_birthday\data\pb21_menuIntro_event.ogv";
-        action = "connectToServer ['94.130.245.243', 2602, 'event21'];";
+        action = "connectToServer ['23.88.70.217', 2602, 'event21'];";
         actionText = "Heidesturm";
         condition = "true";
     };
@@ -13,26 +13,27 @@ class CfgMainMenuSpotlight {
         textIsQuote = 0;
         picture = "\z\pb21\addons\mainmenu_birthday\data\pb21_event1tc_co.paa";
         video = "\z\pb21\addons\mainmenu_birthday\data\pb21_menuIntro_event.ogv";
-        action = "connectToServer ['94.130.245.243', 2612, 'event21'];";
+        action = "connectToServer ['23.88.70.217', 2612, 'event21'];";
         actionText = "Heidesturm TC";
         condition = "true";
     };
-    // Remove default Spotlights
-    delete Bootcamp;
-    delete EastWind;
-    delete ApexProtocol;
-    class Orange_Campaign {condition = "false";};
-    delete Orange_CampaignGerman;
-    delete Orange_Showcase_IDAP;
-    delete Orange_Showcase_LoW;
-    class Tacops_Campaign_01 {condition = "false";};
-    delete Tacops_Campaign_02;
-    delete Tacops_Campaign_03;
-    delete Tanks_Campaign_01;
-    delete Contact_Campaign;
-    delete OldMan;
-    delete SP_FD14;
+
+    //deactivate all other menus
+    class AoW_Showcase_AoW {condition = "false";};
     class AoW_Showcase_Future {condition = "false";};
-    delete AoW_Showcase_AoW;
-    delete gm_campaign_01;
+    class ApexProtocol {condition = "false";};
+    class Bootcamp {condition = "false";};
+    class Contact_Campaign {condition = "false";};
+    class EastWind {condition = "false";};
+    class OldMan {condition = "false";};
+    class Orange_Campaign {condition = "false";};
+    class Orange_CampaignGerman {condition = "false";};
+    class Orange_Showcase_IDAP {condition = "false";};
+    class Orange_Showcase_LoW {condition = "false";};
+    class SP_FD14 {condition = "false";};
+    class Tacops_Campaign_01 {condition = "false";};
+    class Tacops_Campaign_02 {condition = "false";};
+    class Tacops_Campaign_03 {condition = "false";};
+    class Tanks_Campaign_01 {condition = "false";};
+    class gm_campaign_01 {condition = "false";};
 };
