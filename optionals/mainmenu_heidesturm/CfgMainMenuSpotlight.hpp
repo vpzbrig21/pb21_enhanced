@@ -2,7 +2,7 @@ class CfgMainMenuSpotlight {
     class pb21_heidesturm {
         text = "Heidesturm";
         textIsQuote = 0;
-        picture = "\z\pb21\addons\mainmenu_birthday\data\pb21_event1_co.paa";
+        picture = "\z\pb21\addons\mainmenu_birthday\data\pb21_heidesturm_co.paa";
         video = "\z\pb21\addons\mainmenu_birthday\data\pb21_menuIntro_event.ogv";
         action = "connectToServer ['23.88.70.217', 2602, 'event21'];";
         actionText = "Heidesturm";
@@ -11,7 +11,7 @@ class CfgMainMenuSpotlight {
     class pb21_heudesturmtc {
         text = "Heidesturm TC";
         textIsQuote = 0;
-        picture = "\z\pb21\addons\mainmenu_birthday\data\pb21_event1tc_co.paa";
+        picture = "\z\pb21\addons\mainmenu_birthday\data\pb21_heidesturmtc_co.paa";
         video = "\z\pb21\addons\mainmenu_birthday\data\pb21_menuIntro_event.ogv";
         action = "connectToServer ['23.88.70.217', 2612, 'event21'];";
         actionText = "Heidesturm TC";
